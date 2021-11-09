@@ -1,0 +1,16 @@
+{
+  "name": "infi-test",
+  "version": "1.0.0",
+  "description": "Een repository om te laten zien hoe jij code schrijft en over code denkt. Een startpunt voor een goed gesprek over ons vak!",
+  "main": "search.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omer erdem",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "fast-csv": "^4.3.6",
+    "process": "^0.11.10"
+  }
+}
