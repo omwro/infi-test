@@ -54,6 +54,9 @@ Verwachte output:
 
 Serveer de data uit de csv vanuit een web-API, zodat een webapplicatie die data ergens kan ophalen.
 
+```sh
+node api
+```
 ## Webapplicatie
 
 Voor de front-end staat het je vrij om te kiezen of je wel of niet een framework gebruikt, en zo ja welk framework.
