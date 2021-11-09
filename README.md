@@ -35,13 +35,8 @@ Je mag de opdracht doen in een taal en tech stack naar keuze (wij zijn vooral be
 Maak een programma of script dat de gebruiker in staat stelt om via de CLI te zoeken op een deel van een camera _name_, bijvoorbeeld:
 
 ```sh
-# PHP via de CLI aanroepen
-php search.php --name Neude
-
-# Of als je .NET Core hebt gebruikt
-dotnet Search --name Neude
-
-# Etc.
+# Node.js via de CLI aanroepen
+node search name=Neude
 ```
 
 Verwachte output:
