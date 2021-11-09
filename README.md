@@ -59,6 +59,10 @@ node api
 ```
 ## Webapplicatie
 
+```sh
+npm run serve
+```
+
 Voor de front-end staat het je vrij om te kiezen of je wel of niet een framework gebruikt, en zo ja welk framework.
 Bedenk wat je graag wilt laten zien, c.q. waar je het graag in het tweede gesprek over wilt hebben.
 
